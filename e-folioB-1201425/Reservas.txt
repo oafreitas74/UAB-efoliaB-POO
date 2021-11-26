@@ -1,0 +1,44 @@
+Horario N: 2
+Sala: 1
+Data: 28/5/2015
+Hora do Inicio: 10:0
+Hora do Fim: 10:30
+Nome: Manuel
+Telefone: 34567
+Cargo :copeiro
+Nome da empresa: Tivoli
+
+
+Horario N: 3
+Sala: 2
+Data: 25/5/2015
+Hora do Inicio: 12:0
+Hora do Fim: 15:0
+Nome: Joaquim
+Telefone: 2345765
+Cargo :comercial
+Nome da empresa: Jumbo
+
+
+Horario N: 1
+Sala: 3
+Data: 28/5/2015
+Hora do Inicio: 10:0
+Hora do Fim: 18:0
+Nome: Silvia
+Telefone: 987654
+Cargo :Vendedor
+Nome da empresa: Modelo
+
+
+Horario N: 4
+Sala: 3
+Data: 24/5/2015
+Hora do Inicio: 10:30
+Hora do Fim: 16:0
+Nome: Maria
+Telefone: 6578943
+Cargo :cozinheira
+Nome da empresa: Pestana
+
+
